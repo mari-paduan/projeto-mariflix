@@ -11,3 +11,16 @@ header {
     font-size: 32px
     color: rgb(42, 216, 228, );
 }
+
+section{
+    background: rgba(184, 156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamado-texto {
+    margin-right: 5%;
+}
